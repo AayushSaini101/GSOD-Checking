@@ -5,7 +5,7 @@ What is FLINT and its history?
 FLINT Stands for Full Lands Integrations tool tool that is basically a advanced MRV that is Monitering, Reporting and Verfication 
 tool that is used to integrate Lands data with other data sources. 
 
-How FLINT Works:
+How FLINT Works ( Preserve mass balance, Scalable):
 ----------------------------------
 FLINT works by using a combination of data sources and data processing tools to provide a unified view of the data.
 Image a country X and you want to know how much carbon is released or absorbed by the country X.
@@ -24,7 +24,24 @@ The Level of CO2 changes due to the above changes in the land. The CO2 is transf
 
 Refer to this link to understand better about the pool https://docs.moja.global/en/latest/Understanding-FLINT/moja-flint/pools.html
 
+The infrastructure of FLINT
+---------------------------------------------------------------------
+To be added in the proposed timeline (With Explanation)
 
+Why FLINT and its use cases.
+--------------------------------------
+To be added in the proposed timeline.
+
+Difficulties faced by FLINT (Fire Spread,  Rule-based  disturbances)
+--------------------------------------------------------------------
+
+To be added in the proposed timeline.
+
+Features of the FLINT 
+-----------------------------------------------------------
+(Types of data input and output)
+
+To be added in the proposed timeline.
 
 **How FLINT determine the growth rate of particular land sector.**
 
